@@ -8,4 +8,4 @@
 </div>
 
 ## API
-> [MATHDROID](https://github.com/mathdroid) FROM [COVID-19 API](https://github.com/mathdroid/covid-19-api).
+> [MATHDROID](https://github.com/mathdroid) FROM [COVID-19-API](https://github.com/mathdroid/covid-19-api).
