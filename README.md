@@ -1,10 +1,10 @@
 ## COVID-19 ANDROID APP
-> [COVID-19 API](https://github.com/mathdroid/covid-19-api)
+> [COVID-19 API](https://github.com/mathdroid/covid-19-api) from [MATHDROID](https://github.com/mathdroid)
 
 
 ## SCREENSHOT
 <div align="center">
-    <img width="1250" src="https://github.com/sqayner/a-covid19-app/blob/master/covid19thumbnail.png">  
+    <img width="1000" src="https://github.com/sqayner/a-covid19-app/blob/master/covid19thumbnail.png">  
 </div>
 
 
