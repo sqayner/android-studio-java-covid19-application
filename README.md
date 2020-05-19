@@ -9,8 +9,3 @@
 
 ## API
 > [MATHDROID](https://github.com/mathdroid) FROM [COVID-19 API](https://github.com/mathdroid/covid-19-api).
-
-## License
-MIT License 2020, mathdroid.
-
-Transitively from the John Hopkins Site, the data may not be used for commercial purposes.
