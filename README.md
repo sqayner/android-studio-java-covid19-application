@@ -6,5 +6,5 @@
 ## INFO
 - [google_maps_api.xml](https://github.com/sqayner/a-covid19-app/blob/master/app/src/debug/res/values/google_maps_api.xml) Change YOUR_KEY_HERE with [google maps api](https://console.developers.google.com/apis/library/maps-android-backend.googleapis.com) key.
 
-## API
+## API SOURCE
 > [MATHDROID](https://github.com/mathdroid) FROM [COVID-19-API](https://github.com/mathdroid/covid-19-api).
