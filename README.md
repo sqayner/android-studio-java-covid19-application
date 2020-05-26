@@ -9,7 +9,7 @@
 ## API SOURCE
 > [MATHDROID](https://github.com/mathdroid) FROM [COVID-19-API](https://github.com/mathdroid/covid-19-api).
 
-## LICENCE
+## LICENSE
 Copyright © 2020 Şevket Eren KAYNAR
 
 Licensed under the Apache License, Version 2.0 (the "License");
